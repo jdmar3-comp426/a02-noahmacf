@@ -10,8 +10,8 @@
     "type": "git",
     "url": "git+https://github.com/jdmar3-comp426/a02-noahmacf.git"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "Noah MacFarlane",
+  "license": "GPL-3.0-only",
   "bugs": {
     "url": "https://github.com/jdmar3-comp426/a02-noahmacf/issues"
   },
